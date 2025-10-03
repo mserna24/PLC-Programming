@@ -1,6 +1,6 @@
 
-This repository will act a portfolio of all Ladder Logic Projects Completed
-As of now it will encompass code based from current certification process
+This repository will act a portfolio of all Ladder Logic Projects completed.
+As of now it will encompass code based on my current certification course.
 
 
 # **Resources**
